@@ -11,3 +11,7 @@ just a simple SASS version of starter kit
 
 - Live SASS Compiler
 - Text editor (I prefer VS Code)
+
+## Preview
+
+[Starter Kit SASS Link](https://jcrucillo2.github.io/starter-kit-scss/)
