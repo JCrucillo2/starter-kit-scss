@@ -1,6 +1,5 @@
 @import "variables";
 @import "header";
-@import "main";
 
 // styles
 :root,
@@ -34,6 +33,6 @@ h3 {
 }
 
 .container {
-    max-width: 160rem;
+    max-width: 120rem;
     margin: 0 auto;
 }
